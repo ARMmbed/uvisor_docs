@@ -1,0 +1,12 @@
+site_name: uVisor Guides
+
+docs_dir: Docs
+
+pages:
+- ['index.md','uVisor Documentation']
+- ['uVisor_intro.md', 'uVisor', 'Introduction to uVisor']
+- ['Dev_Local.md', 'uVisor', 'Developing Locally']
+- ['Debugging.md', 'uVisor', 'Debugging uVisor']
+- ['Porting.md', 'Porting uVisor', 'Porting uVisor']
+- ['lib_intro.md', 'uvisor-lib', 'uvisor-lib']
+- ['lib_API.md', 'uvisor-lib', 'uvisor-lib API Documentation']
