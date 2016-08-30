@@ -1,1 +1,1 @@
-!{https://raw.githubusercontent.com/ARMmbed/uvisor/master/docs/DEVELOPING_LOCALLY.md}
+!{https://raw.githubusercontent.com/ARMmbed/uvisor/master/docs/core/DEVELOPING_LOCALLY.md}
