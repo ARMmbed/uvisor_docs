@@ -1,1 +1,1 @@
-!{https://raw.githubusercontent.com/ARMmbed/uvisor/master/docs/PORTING.md}
+!{https://raw.githubusercontent.com/ARMmbed/uvisor/master/docs/core/PORTING.md}
