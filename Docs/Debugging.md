@@ -1,2 +1,2 @@
 
-!{https://raw.githubusercontent.com/ARMmbed/uvisor/master/docs/DEBUGGING.md}
+!{https://raw.githubusercontent.com/ARMmbed/uvisor/master/docs/api/DEBUGGING.md}
