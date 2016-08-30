@@ -8,5 +8,3 @@ pages:
 - ['Dev_Local.md', 'uVisor', 'Developing Locally']
 - ['Debugging.md', 'uVisor', 'Debugging uVisor']
 - ['Porting.md', 'Porting uVisor', 'Porting uVisor']
-- ['lib_intro.md', 'uvisor-lib', 'uvisor-lib']
-- ['lib_API.md', 'uvisor-lib', 'uvisor-lib API Documentation']
