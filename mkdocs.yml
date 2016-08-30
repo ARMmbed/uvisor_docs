@@ -5,6 +5,7 @@ docs_dir: Docs
 pages:
 - ['index.md','uVisor Documentation']
 - ['uVisor_intro.md', 'uVisor', 'Introduction to uVisor']
+- ['quick_start.md', 'uVisor', 'Quick start guide']
 - ['Dev_Local.md', 'uVisor', 'Developing Locally']
 - ['Debugging.md', 'uVisor', 'Debugging uVisor']
 - ['Porting.md', 'Porting uVisor', 'Porting uVisor']
