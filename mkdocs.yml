@@ -9,3 +9,5 @@ pages:
 - ['Dev_Local.md', 'uVisor', 'Developing Locally']
 - ['Debugging.md', 'uVisor', 'Debugging uVisor']
 - ['Porting.md', 'Porting uVisor', 'Porting uVisor']
+
+copyright: © ARM Ltd. Copyright 2016 – ARM mbed IoT Device Platform
